@@ -1,0 +1,1 @@
+dotnet run --project Acme.TestAbp --migrate-database
